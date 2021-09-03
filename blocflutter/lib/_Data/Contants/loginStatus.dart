@@ -1,0 +1,1 @@
+enum LoginStatus { IDLE, LOGIN_IN_PROGRESS, IS_LOGGEDIN }
